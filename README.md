@@ -1,5 +1,5 @@
 # Budget-Tracker
-An application that keeps track of a household’s budget. 
+A console application that keeps track of a household’s budget. 
 
 **The user can:**
   - Add expenses, income, and recurring costs.
